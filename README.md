@@ -1,3 +1,7 @@
+temp repo updated to **v1.3.4 tag**
+
+these are old instructions
+
 # CommonLHETools
 
 Common LHE tools for HIG and SUS analyses
